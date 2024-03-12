@@ -2,7 +2,7 @@
 
 Naziv igrice je "Gradski maraton".
 
-Seminarski rad za predmete: 
+Seminarski rad za predmete:
   • Razvoj softvera otvorenog koda, 
   • Objektno orijentisano programiranje i 
   • Računarska grafika 2. 
